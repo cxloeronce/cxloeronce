@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Machine Learning | Process Automation | Robotics | Electronics
 
 **Optimizing Anything Possible** <> *Teaching Tricks to Machines*
+
+- Currently working on my Master Thesis project: _"UAV Autonomous Landing in Urban Areas using Semantic Segmentation"_ 🛸
