@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Machine Learning | Process Automation | Robotics | Electronics
+
+**Optimizing Anything Possible** <> *Teaching Tricks to Machines*
